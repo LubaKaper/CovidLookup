@@ -17,6 +17,7 @@
 		8D60E5B1257976F900E4BAC3 /* CovidLookupUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D60E5B0257976F900E4BAC3 /* CovidLookupUITests.swift */; };
 		8D60E5C22579777F00E4BAC3 /* Summary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D60E5C12579777F00E4BAC3 /* Summary.swift */; };
 		8D60E5C725797B6100E4BAC3 /* APIClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D60E5C625797B6100E4BAC3 /* APIClient.swift */; };
+		8D60E5CF257EA2DC00E4BAC3 /* APIClient2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D60E5CE257EA2DC00E4BAC3 /* APIClient2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		8D60E5B2257976F900E4BAC3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8D60E5C12579777F00E4BAC3 /* Summary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Summary.swift; sourceTree = "<group>"; };
 		8D60E5C625797B6100E4BAC3 /* APIClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIClient.swift; sourceTree = "<group>"; };
+		8D60E5CE257EA2DC00E4BAC3 /* APIClient2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIClient2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				8D60E59C257976F900E4BAC3 /* Info.plist */,
 				8D60E5C12579777F00E4BAC3 /* Summary.swift */,
 				8D60E5C625797B6100E4BAC3 /* APIClient.swift */,
+				8D60E5CE257EA2DC00E4BAC3 /* APIClient2.swift */,
 			);
 			path = CovidLookup;
 			sourceTree = "<group>";
@@ -266,6 +269,7 @@
 			files = (
 				8D60E593257976F600E4BAC3 /* CovidSummaryViewController.swift in Sources */,
 				8D60E58F257976F600E4BAC3 /* AppDelegate.swift in Sources */,
+				8D60E5CF257EA2DC00E4BAC3 /* APIClient2.swift in Sources */,
 				8D60E5C22579777F00E4BAC3 /* Summary.swift in Sources */,
 				8D60E5C725797B6100E4BAC3 /* APIClient.swift in Sources */,
 				8D60E591257976F600E4BAC3 /* SceneDelegate.swift in Sources */,
